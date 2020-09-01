@@ -1,4 +1,4 @@
-# BootcampIGTI-M1T-RGB-Selector
+# BootcampIGTI-T1-RGB-Selector
 
 First practice project of the IGTI Fullstack Developer Bootcamp. 
 
